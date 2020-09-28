@@ -1,6 +1,8 @@
 
 # Bank-Term-Deposit-Prediction
 
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/Bank-Term-Deposit-Prediction/master/images/dataset-card.jpg)
+
 ## What Worked and What did not?
 
 - The data has many missing values, I tried different approaches for handling it,by studying distribution and value counts that led to substituting with mode for categorical variables, to using median for numerical variables, it failed to give a very optimal solution.
